@@ -37,4 +37,5 @@ You need to go to your bluetooth settings and then find out the port by which yo
 
 4. You are now connected to the headset.
 
+5. To implement my model, you may use "HOST_DATA_READ.py" script present in my repository under Python_scripts folder.In this script you have to make a change in the following line of code-
 
