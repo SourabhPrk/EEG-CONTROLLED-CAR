@@ -11,6 +11,12 @@ The aim of this project is to collect the raw electrical signals from a human br
 
 - Neurosky Mindwave Mobile Headset
 - Python 3.0 / jupyter notebook (python 3.0 compatible)
+- 1 Motor Deiver(L2981)
+- NodeMcu(ESP8266)
+- Two Motors
+- Jumpers
+- Chassis
+- 2 Wheels
 
 ### With HeadSet:
 
@@ -30,3 +36,5 @@ ls -l /dev/rfcomm1
 You need to go to your bluetooth settings and then find out the port by which you are connecting to the headset(example-COM3,COM2 etc.) and then replace that port instead of rfcomm1 in the above code(example- rfcomm2,rfcomm3 etc.)
 
 4. You are now connected to the headset.
+
+
